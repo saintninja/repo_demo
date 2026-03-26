@@ -8,5 +8,6 @@ int main() {
     std::cout << "Photoshop" << std::endl;
     std::cout << "I wanna 5 for DB today!" << std::endl;
     std::cout << "Last line" << std::endl;
+    
     return 0;
 }
